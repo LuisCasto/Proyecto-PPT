@@ -1,0 +1,10 @@
+Luis,999
+Javier,475
+Javier,350
+PABLO,25
+PABLO,200
+Luis,125
+Luis,-50
+Luis,425
+Luis,-75
+luis,50
