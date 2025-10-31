@@ -9,3 +9,9 @@ Luis,425
 Luis,-75
 luis,50
 Luis,50
+luis,25
+Luis,-25
+Joshua,-225
+elo,400
+pablo,325
+luis,25
